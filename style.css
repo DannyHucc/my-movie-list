@@ -1,0 +1,4 @@
+/* 讓文字可以換行 */
+p {
+    word-break: break-all;
+}
